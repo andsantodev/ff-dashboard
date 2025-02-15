@@ -1,9 +1,7 @@
 # Dashboard
 
-Design simples de uma Dashboard responsiva
+A new Flutter project.
 
-<img src="https://github.com/user-attachments/assets/887eaf67-d861-498d-8604-02ba7e56a11c" width="400">
+## Getting Started
 
-## Link para visualização
-
-https://dashboard1-pnrpjz.flutterflow.app/
+FlutterFlow projects are built to run on the Flutter _stable_ release.
