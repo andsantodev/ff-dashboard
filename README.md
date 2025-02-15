@@ -1,4 +1,4 @@
-# Amazon
+# Dashboard
 
 Design simples de uma Dashboard responsiva
 
